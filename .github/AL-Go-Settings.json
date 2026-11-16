@@ -1,0 +1,6 @@
+{
+  "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v10.0/.Modules/settings.schema.json",
+  "type": "AppSource App",
+  "templateUrl": "https://github.com/microsoft/AL-Go-AppSource@v10.0",
+  "MicrosoftTelemetryConnectionString": ""
+}
